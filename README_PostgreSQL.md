@@ -143,3 +143,8 @@ python postgresql_log_replay.py /path/to/postgresql.log
 - **로그 형식**: PostgreSQL은 더 상세한 컨텍스트 정보 포함
 - **멀티라인 지원**: PostgreSQL 로그의 복잡한 멀티라인 쿼리 파싱
 - **캐시 관리**: PostgreSQL의 shared_buffers와 다른 캐시 메커니즘
+
+## 출력 예
+
+<img width="794" height="364" alt="image" src="https://github.com/user-attachments/assets/a6adc736-8aeb-4ab6-ad90-5cfa21921c00" />
+
